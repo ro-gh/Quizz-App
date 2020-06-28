@@ -1,0 +1,9 @@
+p.p {
+    border-bottom: 1px solid ;
+    border-top: 1px solid;
+    padding: 10px;
+}
+
+#homeButton {
+    visibility: hidden;
+}
